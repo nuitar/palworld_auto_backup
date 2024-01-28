@@ -11,6 +11,7 @@ palworld auto backup
 - python3
 
 # Usage
+自动备份存档，保留前5个存档，设置定时任务，定期执行
 ```bash
 python3 main.py
 ```
